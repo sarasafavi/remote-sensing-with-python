@@ -1,0 +1,6 @@
+jupyter
+ipykernel
+planet
+rasterio
+shapely
+
