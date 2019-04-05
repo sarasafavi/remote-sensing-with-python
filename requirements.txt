@@ -3,4 +3,6 @@ ipykernel
 planet
 rasterio
 shapely
+fiona
+matplotlib
 
