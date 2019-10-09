@@ -1,13 +1,12 @@
-RS 103 - Supplemental Material
+Supplemental Material
 ===============================
 
-Jupyter Notebooks to support Planet Launch course RS 103: Remote Sensing
-Programming with Python
+Jupyter Notebooks to support "Remote Sensing Programming with Python" workshop.
 
 Requirements
 --------------
 
-This repo is optimized for use within a PythonAnywhere environment. As such,
+This repo is optimized for use within a geospatial Jupyter environment. As such,
 the following prerequisites are assumed to be installed and available at the
 system level:
 
@@ -25,9 +24,7 @@ development, a virtualenv is strongly recommended)_:
 Running Locally
 ----------------
 
-In PythonAnywhere, there's no need to run the Jupyter server directly. For
-local development, however, it can be useful to run Jupyter from within the
-project virtualenv.
+For local development, it can be useful to run Jupyter from within a project virtualenv.
 
 To set up the kernel with virtualenv packages, run the following within the
 virtualenv:
